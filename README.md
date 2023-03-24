@@ -4,8 +4,8 @@
 </div>
 
 <!-- Rpofile Banner -->
-<div align="center">
-  <a href="https://radanfolio.vercel.app">
+<!-- <div align="center">
+  <a href="https://www.devist.xyz">
     <img src="./assets/banner-styled-a.svg">
   </a>
-</div>
+</div> -->
