@@ -1,6 +1,7 @@
 <!-- Profile Views Counter -->
 <div align="center">
-  <img alt="Profile Views" src="https://gpvc.arturio.dev/radandevist?v=3" />
+  <!-- <img alt="Profile Views" src="https://gpvc.arturio.dev/radandevist?v=3" /> -->
+  ![](https://komarev.com/ghpvc/?username=radandevist&color=green)
 </div>
 
 <!-- Rpofile Banner -->
